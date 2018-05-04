@@ -1,2 +1,8 @@
 # hello-world
-just my first repository 
+
+
+Hi fellow earthtlings!
+
+
+Dani here, I love dogs.
+Dogs are my life and I'm gonna adopt a dog soon.
