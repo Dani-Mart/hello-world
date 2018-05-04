@@ -1,7 +1,7 @@
 # hello-world
 
 
-Hi fellow earhtlings!
+Hi fellow earthtlings!
 
 
 Dani here, I love dogs.
